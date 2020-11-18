@@ -12,7 +12,8 @@ const Tours = ({tours}) => {
 
         </Tour>
         
-      })}
+      }
+      )}
     </div>
 
   </section>;
